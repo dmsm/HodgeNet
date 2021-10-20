@@ -7,10 +7,10 @@ Dmitriy Smirnov, Justin Solomon<br>
 [SIGGRAPH 2021](https://s2021.siggraph.org/)
 
 ### Set-up
-To install the neecssary dependencies, run:
+To install the necessary dependencies, run:
 ```
 conda env create -f environment.yml
-conda activate hodgenet
+conda activate HodgeNet
 ```
 
 ### Training
